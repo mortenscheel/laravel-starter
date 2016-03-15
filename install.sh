@@ -8,4 +8,4 @@ chmod -R 777 bootstrap/cache/
 composer install
 php artisan key:generate
 composer update
-npm install
+#npm-cache install
