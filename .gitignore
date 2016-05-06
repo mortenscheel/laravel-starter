@@ -1,5 +1,5 @@
 node_modules/
-
+./_ide_helper.php
 ### Laravel template
 /bootstrap/compiled.php
 .env.*.php
